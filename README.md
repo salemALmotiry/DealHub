@@ -37,6 +37,14 @@
 | getActiveContracts (Owner)                         | getActiveContractsOwner                               |
 | getExpiredContracts (Owner)                        | getExpiredContractsOwner                              |
 
+### Model Names:
+
+- FranchiseOffer
+- Individual
+- Owner
+- Franchise
+- FranchiseContract
+- 
 ### Controller Names:
 
 - FranchiseOfferController
