@@ -1,6 +1,8 @@
+![Uploading drawSQL-image-export-2024-12-19.png…]()
 
 | **Controller Method Name**                        | **Service Method Name**                               |
 |----------------------------------------------------|-------------------------------------------------------|
+
 | makeFranchiseOffer                                 | individualMakeOfferSameDeal                           |
 | makeOfferWithCounter                               | individualMakeOfferWithCounter                        |
 | getOfferPendingByOwner                             | getIndividualFranchiseOfferPendingByOwner             |
