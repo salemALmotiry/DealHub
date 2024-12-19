@@ -1,7 +1,11 @@
 
+
+
+
+
+
 | **Controller Method Name**                        | **Service Method Name**                               |
 |----------------------------------------------------|-------------------------------------------------------|
-
 | makeFranchiseOffer                                 | individualMakeOfferSameDeal                           |
 | makeOfferWithCounter                               | individualMakeOfferWithCounter                        |
 | getOfferPendingByOwner                             | getIndividualFranchiseOfferPendingByOwner             |
@@ -22,8 +26,6 @@
 | getActiveContracts (Owner)                         | getActiveContractsOwner                               |
 | getExpiredContracts (Owner)                        | getExpiredContractsOwner                              |
 
-
-
 ### Service Names:
 
 - FranchiseOfferService
@@ -39,4 +41,3 @@
 - OwnerRepository
 - FranchiseRepository
 - FranchiseContractRepository
-  
