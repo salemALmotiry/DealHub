@@ -22,25 +22,20 @@
 | getExpiredContracts (Owner)                        | getExpiredContractsOwner                              |
 
 
----
 
-**Notes:**
+### Service Names:
 
-- **Service Associations:**
-  - All methods related to franchise offers are handled by `FranchiseOfferService`.
-  - Contract-related methods for individuals are handled by `IndividualService`.
-  - Contract-related methods for owners are handled by `OwnerService`.
+- FranchiseOfferService
+- IndividualService
+- OwnerService
+- FranchiseService
+- FranchiseContractService
 
-- **Repository Associations:**
-  - Each service interacts with its respective repository for data persistence.
+### Repository Names:
 
-- **Method Naming Conventions:**
-  - Controller methods are clearly named to indicate their purpose and the actor involved (`individual` or `owner`).
-  - Service methods correspond directly to their controller counterparts for consistency and maintainability.
-
-- **HTTP Status Codes:**
-  - All responses retain the status code `200` as per your instruction.
-
----
-
-If you need further assistance or additional mappings, feel free to let me know!
+- FranchiseOfferRepository
+- IndividualRepository
+- OwnerRepository
+- FranchiseRepository
+- FranchiseContractRepository
+  
