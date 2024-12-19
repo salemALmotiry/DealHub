@@ -1,3 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | **Controller Method Name**                        | **Service Method Name**                               |
 |----------------------------------------------------|-------------------------------------------------------|
 | makeFranchiseOffer                                 | individualMakeOfferSameDeal                           |
