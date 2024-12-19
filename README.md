@@ -1,9 +1,3 @@
-
-
-
-
-
-
 | **Controller Method Name**                        | **Service Method Name**                               |
 |----------------------------------------------------|-------------------------------------------------------|
 | makeFranchiseOffer                                 | individualMakeOfferSameDeal                           |
@@ -25,6 +19,14 @@
 | getExpiredContractsForIndividual                   | getExpiredContractsForIndividual                      |
 | getActiveContracts (Owner)                         | getActiveContractsOwner                               |
 | getExpiredContracts (Owner)                        | getExpiredContractsOwner                              |
+
+### Controller Names:
+
+- FranchiseOfferController
+- IndividualController
+- OwnerController
+- FranchiseController
+- FranchiseContractController
 
 ### Service Names:
 
