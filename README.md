@@ -60,3 +60,11 @@
 - OwnerRepository
 - FranchiseRepository
 - FranchiseContractRepository
+
+  ### DTO Names:
+
+- FranchiseContractDTO
+- FranchiseDTO
+- FranchiseOfferDTO
+- FranchiseOfferIn
+
